@@ -77,6 +77,7 @@
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/) - Google-developed tool to validate and harden Content Security Policy (CSP) headers.
 - [CORS Cheat Sheet](https://portswigger.net/web-security/cors) - Essential reference guide for implementing safe Cross-Origin Resource Sharing configurations.
 - [SSL Labs Server Test](https://www.ssllabs.com/ssltest/) - Deep analysis of the SSL/TLS web server configuration and encryption strength.
+- [WebDecoy API Honeypot Setup Check](https://webdecoy.com/product/endpoints/) - Shows how to verify a labeled request to a decoy URL and locate the matching detection.
 
 ---
 
